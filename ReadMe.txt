@@ -1,4 +1,4 @@
-		Utvyakta - ImageProcessingChallenge:
+		Image processing
 Objective:
 -From the sample/test images provided, you have to identify the features andalign the images according to the original.
 -The test images may be scaled, offset or rotated or a combination of these.
